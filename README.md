@@ -1,1 +1,1 @@
-# intro_to_game_design
+# This is repo for my home works assignments for this great course
